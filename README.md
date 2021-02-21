@@ -28,6 +28,14 @@ When interacting with non-standard tokens which burn on transfer use the functio
 
 
 
+## The Guide
+This guide will look into the basics of directly interacting with the router contract to add/remove liquidity and swap. For a complete list of router functions please refer to the router interface “IinfinityRouter01.sol”.
+
+
+### Adding liquidity
+When adding liquidity if the token pair does not exist it will be automatically created, the ratio of the tokens added will determine the initial price of the pair.
+
+
 
 
 ## Introduction
