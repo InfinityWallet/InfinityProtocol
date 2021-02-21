@@ -156,7 +156,9 @@ Single Token Removal
 ### Coins
 ![](https://i.gyazo.com/ab33b639906a86d06ec86ac5dc486cdc.png)
 
-
+### Whitelist Burning Governance
+![](https://i.gyazo.com/e45556562be4b164f707c789960e5ebc.png)
+![](https://i.gyazo.com/c179ceca17185c7e679c4ee038a41652.png)
 
 
 
