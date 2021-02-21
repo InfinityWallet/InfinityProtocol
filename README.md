@@ -21,9 +21,11 @@ For example the liquidity token for a pool containing SHARD and BUSD would have:
 **Symbol** - ♾️SHARD-BUSD
 
 
+
 **Non-standard tokens**
 
 When interacting with non-standard tokens which burn on transfer use the functions appended with “SupportingFeeOnTransferTokens”.
+
 
 
 
