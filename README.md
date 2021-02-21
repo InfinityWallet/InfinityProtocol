@@ -203,10 +203,14 @@ Single Token Removal
 
 - Decentralized Referral System: Invite friends to earn a percentage of their trading fees forever all on the blockchain.
 
-- New order types: Integration of on-chain orderbook with limit orders and margin trading, to expand the available options for all traders along with the liquidity pools.
+- Limit Orders: Integration of on-chain orderbook with limit orders to expand the available options for all traders alongside pool liquidity.
+
+- Margin Trading: Trade tokens with leverage on-chain rewards providers.
 
 - Decentralized Loans: Users will be able to provide liquidity and earn interest, or take out a loan at competitive rates fully on the blockchain.
 
 - Buy/Sell Crypto to Fiat: In the near future, we look to integrate the ability for new users to easily get started within the defi platform by providing the ability to buy/sell crypto from and to fiat.
 
 - Manage your funds and tokens by connecting your wallet and being able to send, receive and trade within one unique defi platform.
+
+- Gamification: Integrating new ways to earn rewards such as NFT's, achievements, trading battles, competitions and much more.
