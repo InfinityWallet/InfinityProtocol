@@ -160,6 +160,12 @@ Single Token Removal
 ![](https://i.gyazo.com/e45556562be4b164f707c789960e5ebc.png)
 ![](https://i.gyazo.com/c179ceca17185c7e679c4ee038a41652.png)
 
+### Wallet Mangement with Balance & Portfolio
+![](https://i.gyazo.com/7e403f3b42322b4333931c5ed2aaf982.png)
+![](https://i.gyazo.com/f971ef449d052bb25a4dd52386787ad1.png)
+
+### Swaps History
+![](https://i.gyazo.com/7166ee4b922a07fa0cf361a3986a4852.png)
 
 
 ## Future Features
