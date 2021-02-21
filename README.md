@@ -147,6 +147,15 @@ Single Token Removal
 ![](https://i.gyazo.com/db9f8491bcf58ee9c7998cd4ea32b0af.png)
 ![](https://i.gyazo.com/4cd19c40226d2edd2e7422270e37fbc1.png)
 
+### Overall Analytics
+![](https://i.gyazo.com/1fa0a7dbeded09be06a0ab4a5a8cb86a.png)
+
+### Pools
+![](https://i.gyazo.com/a5d86566fe600fee837d75847d97e9f3.png)
+
+
+
+
 
 ## Future Features
 
