@@ -17,6 +17,7 @@ Infinity Protocol liquidity tokens for a pair can be identified by their name an
 For example the liquidity token for a pool containing SHARD and BUSD would have:
 
 **Name** - Infinity (SHARD-BUSD)
+
 **Symbol** - ♾️♾️♾SHARD-BUSD
 
 
