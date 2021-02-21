@@ -55,7 +55,20 @@ The expected liquidity to be minted can be calculated with the Infinity SDK usin
 
 
 ### Removing liquidity
-You can redeem your liquidity pool tokens at any time and choose to receive either both of the tokens from a pair or a single token. The amounts received depend on the current pool reserves and their ratio in the pool. We will look at how to remove liquidity in a single token with the removeLiquiditySingle function.
+You can redeem your liquidity pool tokens at any time and choose to receive either both of the tokens from a pair or a single token. The amounts received depend on the current pool reserves and their ratio in the pool. To remove both tokens at the current ratio use the removeLiquidity function, or to remove liquidity in a single token use the removeLiquiditySingle function.
+
+The **removeLiquidity** function accepts these parameters:
+
+| Type | Parameter | Description |
+| :--- | :--- | :--- |
+| address | **tokenA** | The contract address of one of the tokens in the pool. |
+| address | **tokenB** | The contract address of the other token in the pool. |
+| uint | **liquidity** | The amount of liquidity pool tokens you want to redeem. |
+| uint | **amountAMin** | The minimum amount of tokenA you will accept in return. |
+| uint | **amountBMin** | The minimum amount of tokenB you will accept in return. |
+| address | **to** | The address to receive the tokens. |
+| uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
+
 
 The **removeLiquiditySingle** function accepts these parameters:
 
@@ -68,7 +81,7 @@ The **removeLiquiditySingle** function accepts these parameters:
 | address | **to** | The address to receive the tokens. |
 | uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
 
-The expected tokens to be received can be calculated with the Infinity SDK using the getLiquidityValueSingle function. You can then modify this value by your slippage tolerance to provide an amountOutMin. However for ease of use on the testnet you can choose an amountOutMin of 0.
+The expected tokens to be received can be calculated with the Infinity SDK using the getLiquidityValue and getLiquidityValueSingle functions. You can then modify this value by your slippage tolerance to provide an amountOutMin. However for ease of use on the testnet you can choose an amountOutMin of 0.
 
 
 ### Swapping
@@ -155,6 +168,9 @@ Single Token Removal
 
 ### Coins
 ![](https://i.gyazo.com/ab33b639906a86d06ec86ac5dc486cdc.png)
+
+### Individual Coin & Pool Pages
+![](https://i.gyazo.com/39e5a4ba27643634b93ca67ca056877b.png)
 
 ### Whitelist Burning Governance
 ![](https://i.gyazo.com/e45556562be4b164f707c789960e5ebc.png)
