@@ -29,7 +29,7 @@ When interacting with non-standard tokens which burn on transfer use the functio
 
 
 ## The Guide
-This guide will look into the basics of directly interacting with the router contract to add/remove liquidity and swap. For a complete list of router functions please refer to the router interface *“IInfinityRouter01.sol”*.
+This guide will look into the basics of directly interacting with the router contract to add/remove liquidity and swap. For a complete list of router functions please refer to the router interface ***“IInfinityRouter01.sol”***.
 
 
 ### Adding liquidity
