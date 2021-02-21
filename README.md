@@ -128,7 +128,7 @@ Infinity Crypto is an innovative new all-in-one decentralized financial ecosyste
 
 - Infinity bridge: Integrating the Binance bridge and expanding it with additional Infinity bridged coins to make BSC the ultimate hub of cross-chain decentralized finance globally.
 
-- Staking pools: Earn additional rewards when providing liquidity to select PoS staking liquidity pools, deposited straight to the pool so you can passively compound all your rewards in a single pool.
+- Staking pools: Earn additional rewards when providing liquidity to select PoS staking liquidity pools, deposited straight to the pool so you can passively compound all your rewards in a single pool earning the benefit of staking rewards + liquidity providing fees.
 
 
 ## Screens
@@ -197,6 +197,7 @@ Single Token Removal
 
 
 ## Future Features
+There are many other features which we are not yet ready to reveal, however the Infinity Protocol and Infinity Crypto look to innovate the industry with new technology, advancing blockchain with a leading protocol and platform starting on the Binance Smart Chain brining a real value platform to the chain, some features on the roadmap are:
 
 - Decentralized Token Offerings: This will allow new tokens to easily launch in a fully decentralized environment, based on a set of pre-determined rules.
 
@@ -213,3 +214,7 @@ Single Token Removal
 - Manage your funds and tokens by connecting your wallet and being able to send, receive and trade within one unique defi platform.
 
 - Gamification: Integrating new ways to earn rewards such as NFT's, achievements, trading battles, competitions and much more.
+
+- Yeild Farming: Earn yeild by providing liquidity into specific pools to be rewarded.
+
+- Integration of the Infinity Protocol into the Infinity Wallet for direct wallet trading, staking, loans, liquidity providing and much more.
