@@ -2,9 +2,11 @@
 
 The core contract is a factory which can create pair contracts as required for any token pair. Liquidity can be provided for these token pairs, allowing users to swap between them. To swap and add/remove liquidity we use a router contract to execute the desired transactions and perform safety checks. You must first approve the router address for any tokens you want to send.
 
-**InfinityFactory** - https://github.com/InfinityWallet/InfinityCrypto-Core  ("0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6")
+**InfinityFactory** - https://github.com/InfinityWallet/InfinityCrypto-Core  (**0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6**)
 
-**InfinityRouter** - https://github.com/InfinityWallet/Infinity-Periphery  ("0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221")
+**InfinityRouter** - https://github.com/InfinityWallet/Infinity-Periphery  (**0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221**)
+
+*Currently deployed on BSCTEST*
 
 
 
