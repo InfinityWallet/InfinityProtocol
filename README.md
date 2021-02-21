@@ -153,6 +153,9 @@ Single Token Removal
 ### Pools
 ![](https://i.gyazo.com/a5d86566fe600fee837d75847d97e9f3.png)
 
+### Coins
+![](https://i.gyazo.com/ab33b639906a86d06ec86ac5dc486cdc.png)
+
 
 
 
