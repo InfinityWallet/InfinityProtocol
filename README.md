@@ -1,5 +1,13 @@
 # Infinity Protocol
 
+The core contract is a factory which can create pair contracts as required for any token pair. Liquidity can be provided for these token pairs, allowing users to swap between them. To swap and add/remove liquidity we use a router contract to execute the desired transactions and perform safety checks. You must first approve the router address for any tokens you want to send.
+
+*Bsc Testnet Contracts*
+**InfinityFactory** - 0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6
+**InfinityRouter01** - 0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221
+
+
+
 ## Introduction
 Infinity is an innovative new all-in-one decentralized financial ecosystem, bringing new advancements and ease-of-use features to make earning and trading easier than ever. The platform will provide users with easy and instant access to a wide range of decentralized financial services on the Binance Smart Chain, while holding your tokens securely on either the decentralized companion Infinity Wallet or your wallet of choice.
 
