@@ -4,10 +4,14 @@ The core contract is a factory which can create pair contracts as required for a
 
 
 ***Bsc Testnet Contracts***
+Infinity
 
-**InfinityFactory** - 0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6
 
-**InfinityRouter01** - 0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221
+***Bsc Testnet Contracts***
+
+**InfinityFactory** - https://github.com/InfinityWallet/InfinityCrypto-Core 0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6
+
+**InfinityRouter** - https://github.com/InfinityWallet/Infinity-Periphery 0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221
 
 
 ## Infinity Protocol Liquidity Tokens
