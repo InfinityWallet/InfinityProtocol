@@ -40,22 +40,14 @@ You can add liquidity at the exact ratio of the pair reserves using the addLiqui
 The **addLiquidityFlexible** function accepts these parameters:
 
 | Parameter | Type | Description |
-| :--- | :--- | ---: |
-| tokenA | address | The contract address of one of the tokens you wish to provide. |
-| tokenB | address | The contract address of the other token. |
-| amountA | uint | The wei amount of tokenA to provide. |
-| amountB | uint | The wei amount of tokenB to provide. |
-| liquidityMin | uint | The minimum amount of liquidity pool tokens you will accept in return. |
-| to | address | The address to receive the liquidity tokens. |
-| deadline | uint | The Unix-time deadline which the transaction must be confirmed before. |
-
-- address **tokenA** - The contract address of one of the tokens you wish to provide.
-- address **tokenB** - The contract address of the other token.
-- uint **amountA** - The wei amount of tokenA to provide.
-- uint **amountB** - The wei amount of tokenB to provide.
-- uint **liquidityMin** - The minimum amount of liquidity pool tokens you will accept in return.
-- address **to** - The address to receive the liquidity tokens.
-- uint **deadline** - The Unix-time deadline which the transaction must be confirmed before.
+| :--- | :--- | :--- |
+| tokenA | **address** | The contract address of one of the tokens you wish to provide. |
+| tokenB | **address** | The contract address of the other token. |
+| amountA | **uint** | The wei amount of tokenA to provide. |
+| amountB | **uint** | The wei amount of tokenB to provide. |
+| liquidityMin | **uint** | The minimum amount of liquidity pool tokens you will accept in return. |
+| to | **address** | The address to receive the liquidity tokens. |
+| deadline | **uint** | The Unix-time deadline which the transaction must be confirmed before. |
 
 
 The expected liquidity to be minted can be calculated with the Infinity SDK using the getLiquidityMintedFlexible function. You can then modify this value by your slippage tolerance to provide a liquidityMin. However for ease of use on the testnet you can choose a liquidityMin of 0.
