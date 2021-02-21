@@ -28,7 +28,6 @@ For example the liquidity token for a pool containing SHARD and BUSD would have:
 When interacting with non-standard tokens which burn on transfer use the functions appended with “SupportingFeeOnTransferTokens”.
 
 
-
 ## The Guide
 This guide will look into the basics of directly interacting with the router contract to add/remove liquidity and swap. For a complete list of router functions please refer to the router interface ***“IInfinityRouter01.sol”***.
 
