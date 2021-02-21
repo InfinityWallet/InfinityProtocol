@@ -10,6 +10,16 @@ The core contract is a factory which can create pair contracts as required for a
 **InfinityRouter01** - 0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221
 
 
+## Infinity Protocol Liquidity Tokens
+
+Infinity Protocol liquidity tokens for a pair can be identified by their name and symbol on the blockchain. This allows users to easily see what liquidity they have on many wallets and explorers.
+
+For example the liquidity token for a pool containing SHARD and BUSD would have:
+
+**Name** - Infinity (SHARD-BUSD)
+**Symbol** - ♾️♾️♾SHARD-BUSD
+
+
 
 
 ## Introduction
