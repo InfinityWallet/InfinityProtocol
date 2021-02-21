@@ -35,6 +35,22 @@ This guide will look into the basics of directly interacting with the router con
 ### Adding liquidity
 When adding liquidity if the token pair does not exist it will be automatically created, the ratio of the tokens added will determine the initial price of the pair.
 
+You can add liquidity at the exact ratio of the pair reserves using the addLiquidity function, or add at any ratio or in a single token with the addLiquidityFlexible function. We will look at how to flexibly add liquidity.
+
+The **addLiquidityFlexible** function accepts these parameters:
+
+- address **tokenA** - The contract address of one of the tokens you wish to provide.
+- address **tokenB** - The contract address of the other token.
+- uint **amountA** - The wei amount of tokenA to provide.
+- uint **amountB** - The wei amount of tokenB to provide.
+- uint **liquidityMin** - The minimum amount of liquidity pool tokens you will accept in return.
+- address **to** - The address to receive the liquidity tokens.
+- uint **deadline** - The Unix-time deadline which the transaction must be confirmed before.
+
+
+
+
+
 
 
 
