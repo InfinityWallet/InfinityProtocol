@@ -143,6 +143,9 @@ Dual Token Removal
 Single Token Removal
 ![](https://i.gyazo.com/ea4418b37e68eff5cc57e950bef29d2d.png)
 
+### Bridge
+![](https://i.gyazo.com/db9f8491bcf58ee9c7998cd4ea32b0af.png)
+![](https://i.gyazo.com/4cd19c40226d2edd2e7422270e37fbc1.png)
 
 
 ## Future Features
