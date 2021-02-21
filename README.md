@@ -48,7 +48,7 @@ The **addLiquidityFlexible** function accepts these parameters:
 - uint **deadline** - The Unix-time deadline which the transaction must be confirmed before.
 
 
-
+The expected liquidity to be minted can be calculated with the Infinity SDK using the getLiquidityMintedFlexible function. You can then modify this value by your slippage tolerance to provide a liquidityMin. However for ease of use on the testnet you can choose a liquidityMin of 0.
 
 
 
