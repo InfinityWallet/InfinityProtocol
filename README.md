@@ -35,6 +35,13 @@ Infinity is an innovative new all-in-one decentralized financial ecosystem, brin
 ![](https://i.gyazo.com/1f266356a94c8086a98275d0acf61dcf.png)
 ![](https://i.gyazo.com/61adec14a59ab9a6c72f157acb5dd80d.png)
 
+### Remove Liquidity
+
+Dual Token Removal
+![](https://i.gyazo.com/dd0f5c788d78dcefba002d989f926594.png)
+
+Single Token Removal
+![](https://i.gyazo.com/ea4418b37e68eff5cc57e950bef29d2d.png)
 
 
 
