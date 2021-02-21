@@ -17,3 +17,15 @@ Infinity is an innovative new all-in-one decentralized financial ecosystem, brin
 - Infinity bridge: Integrating the Binance bridge and expanding it with additional Infinity bridged coins to make BSC the ultimate hub of cross-chain decentralized finance globally.
 
 - Staking pools: Earn additional rewards when providing liquidity to select PoS staking liquidity pools, deposited straight to the pool so you can passively compound all your rewards in a single pool.
+
+
+
+
+## Future Features
+
+- Decentralized Token Offerings: This will allow new tokens to easily launch in a fully decentralized environment, based on a set of pre-determined rules.
+- Decentralized Referral System: Invite friends to earn a percentage of their trading fees forever all on the blockchain.
+- New order types: Integration of on chain orderbook with limit orders and margin trading, to expand the available options for all traders along with the liquidity pools.
+- Decentralized Loans: Users will be able to provide liquidity and earn interest, or take out a loan at competitive rates fully on the blockchain.
+- Buy/Sell Crypto to Fiat: In the near future, we look to integrate the ability for new users to easily get started within the defi platform by providing the ability to buy/sell crypto from and to fiat.
+- Manage your funds and tokens by connecting your wallet and being able to send, receive and trade within one unique defi platform.
