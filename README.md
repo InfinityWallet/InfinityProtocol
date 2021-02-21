@@ -3,7 +3,7 @@
 The core contract is a factory which can create pair contracts as required for any token pair. Liquidity can be provided for these token pairs, allowing users to swap between them. To swap and add/remove liquidity we use a router contract to execute the desired transactions and perform safety checks. You must first approve the router address for any tokens you want to send.
 
 
-*Bsc Testnet Contracts*
+***Bsc Testnet Contracts***
 
 **InfinityFactory** - 0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6
 
