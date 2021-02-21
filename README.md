@@ -164,8 +164,21 @@ Single Token Removal
 ![](https://i.gyazo.com/7e403f3b42322b4333931c5ed2aaf982.png)
 ![](https://i.gyazo.com/f971ef449d052bb25a4dd52386787ad1.png)
 
-### Swaps History
+### Wallet Trade History
 ![](https://i.gyazo.com/7166ee4b922a07fa0cf361a3986a4852.png)
+
+### Wallet Liquidity Positions
+![](https://i.gyazo.com/7166ee4b922a07fa0cf361a3986a4852.png)
+![](https://i.gyazo.com/b2b33bab790d3319b5824cea1145338a.png)
+
+### Wallet Liquidity History
+![](https://i.gyazo.com/d4c7ac2b55c779cf703ec1240234465e.png)
+
+### Wallet Bridge History
+![](https://i.gyazo.com/0a23534b503f2d45313ae5765e5b2da5.png)
+
+### Wallet Rewards
+![](https://i.gyazo.com/0d7af58966e2b5d9bd179407d411f243.png)
 
 
 ## Future Features
