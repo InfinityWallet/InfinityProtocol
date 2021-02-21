@@ -58,12 +58,14 @@ You can redeem your liquidity pool tokens at any time and choose to receive eith
 
 The **removeLiquiditySingle** function accepts these parameters:
 
-- address **tokenA** - The contract address of the other token in the pool.
-- address **tokenOut** - The contract address of the token you want out of the pool.
-- uint **liquidity** - The amount of liquidity pool tokens you want to redeem.
-- uint **amountOutMin** - The minimum amount of the tokenOut you will accept in return.
-- address **to** - The address to receive the tokens.
-- uint **deadline** - The Unix-time deadline which the transaction must be confirmed before.
+| Type | Parameter | Description |
+| :--- | :--- | :--- |
+| address | **tokenA** | The contract address of the other token in the pool. |
+| address | **tokenOut** | The contract address of the token you want out of the pool. |
+| uint | **liquidity** | The amount of liquidity pool tokens you want to redeem. |
+| uint | **amountOutMin** | The minimum amount of the tokenOut you will accept in return. |
+| address | **to** | The address to receive the tokens. |
+| uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
 
 The expected tokens to be received can be calculated with the Infinity SDK using the getLiquidityValueSingle function. You can then modify this value by your slippage tolerance to provide an amountOutMin. However for ease of use on the testnet you can choose an amountOutMin of 0.
 
@@ -75,18 +77,24 @@ First we will use the getAmountsOut function in the router to calculate the expe
 
 The **getAmountsOut** function accepts these parameters:
 
-- uint **amountIn** – The amount of tokenIn that you would like to swap.
-- address[] **path** – An array of token addresses representing the hops for this trade. For a basic 1 hop trade this would be the contract address of [tokenIn, tokenOut].
+| Type | Parameter | Description |
+| :--- | :--- | :--- |
+| uint | **amountIn** | The amount of tokenIn that you would like to swap. |
+| address[] | **path** | An array of token addresses representing the hops for this trade. For a basic 1 hop trade this would be the contract address of [tokenIn, tokenOut]. |
+
 
 You can then modify the result of this function by your slippage tolerance to calculate an amountOutMin. For example multiply the result by 0.9 for a -10% slippage tolerance.
 
 We will then use the **swapExactTokensForTokens** function accepting these parameters:
- 
-- uint **amountIn** - The amount of tokenIn that you would like to swap.
-- uint **amountOutMin** - The minimum amount of the tokenOut you will accept in return.
-- address[] **path** - An array of token addresses representing the hops for this trade. For a basic 1 hop trade this would be the contract address of [tokenIn, tokenOut].
-- address **to** - The address to receive the tokens.
-- uint **deadline** - The Unix-time deadline which the transaction must be confirmed before.
+
+
+| Type | Parameter | Description |
+| :--- | :--- | :--- |
+| uint | **amountIn** | The amount of tokenIn that you would like to swap. |
+| uint | **amountOutMin** | The minimum amount of the tokenOut you will accept in return. |
+| address[] | **path** | An array of token addresses representing the hops for this trade. For a basic 1 hop trade this would be the contract address of [tokenIn, tokenOut]. |
+| address | **to** | The address to receive the tokens. |
+| uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
 
 
 
