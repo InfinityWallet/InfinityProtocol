@@ -168,7 +168,7 @@ Single Token Removal
 ![](https://i.gyazo.com/7166ee4b922a07fa0cf361a3986a4852.png)
 
 ### Wallet Liquidity Positions
-![](https://i.gyazo.com/7166ee4b922a07fa0cf361a3986a4852.png)
+![](https://i.gyazo.com/b7d0be77699b81b8442b6d0ac66b2d28.png)
 ![](https://i.gyazo.com/b2b33bab790d3319b5824cea1145338a.png)
 
 ### Wallet Liquidity History
