@@ -21,9 +21,19 @@ Infinity is an innovative new all-in-one decentralized financial ecosystem, brin
 
 ## Screens
 
-### Home Page
+### Home
 ![](https://i.gyazo.com/2da361a82932057ce31de339304ddbce.png)
 
+### Markets
+![](https://i.gyazo.com/32edcbc06329b469ededcfa6bda39f9e.png)
+
+### Swap
+![](https://i.gyazo.com/8ee00df114a9c2743919267051223335.png)
+
+### Add Liquidity
+![](https://i.gyazo.com/a2fff6e76d704b12d373b7995fb1d12d.png)
+![](https://i.gyazo.com/1f266356a94c8086a98275d0acf61dcf.png)
+![](https://i.gyazo.com/61adec14a59ab9a6c72f157acb5dd80d.png)
 
 
 
