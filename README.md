@@ -51,6 +51,19 @@ The **addLiquidityFlexible** function accepts these parameters:
 The expected liquidity to be minted can be calculated with the Infinity SDK using the getLiquidityMintedFlexible function. You can then modify this value by your slippage tolerance to provide a liquidityMin. However for ease of use on the testnet you can choose a liquidityMin of 0.
 
 
+### Removing liquidity
+You can redeem your liquidity pool tokens at any time and choose to receive either both of the tokens from a pair or a single token. The amounts received depend on the current pool reserves and their ratio in the pool. We will look at how to remove liquidity in a single token with the removeLiquiditySingle function.
+
+The **removeLiquiditySingle** function accepts these parameters:
+
+- address **tokenA** - The contract address of the other token in the pool.
+- address **tokenOut** - The contract address of the token you want out of the pool.
+- uint **liquidity** - The amount of liquidity pool tokens you want to redeem.
+- uint **amountOutMin** - The minimum amount of the tokenOut you will accept in return.
+- address **to** - The address to receive the tokens.
+- uint **deadline** - The Unix-time deadline which the transaction must be confirmed before.
+
+The expected tokens to be received can be calculated with the Infinity SDK using the getLiquidityValueSingle function. You can then modify this value by your slippage tolerance to provide an amountOutMin. However for ease of use on the testnet you can choose an amountOutMin of 0.
 
 
 
