@@ -112,12 +112,7 @@ We will then use the **swapExactTokensForTokens** function accepting these param
 
 
 # Why Binance Smart Chain (BSC)?
-
-
-
-In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much (much much) lower transaction fees let us do this.
-While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future.
-Faster. Cheaper. Sold.
+We look to make the user experience the best it can be for novice and advanced users alike. Binance Smart Chain was an obvious choice as it provides the security we require on a fast, low fee blockchain. Along with an impressive suite of bridged coins and tokens, which we look to further expand on.
 
 
 # Infinity Crypto
