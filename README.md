@@ -23,10 +23,12 @@ For example the liquidity token for a pool containing SHARD and BUSD would have:
 **Symbol** - ♾️SHARD-BUSD
 
 
-
 **Non-standard tokens**
 
 When interacting with non-standard tokens which burn on transfer use the functions appended with “SupportingFeeOnTransferTokens”.
+
+**Dual LP Pools**
+Infinity liquidity pool tokens are named based on their component tokens. This allows them to be easily identified and listed on tracking sites and exchanges, as well as combined into multi-tier multi-token pools.
 
 
 ## The Guide
@@ -133,6 +135,8 @@ Infinity Crypto is an innovative new all-in-one decentralized financial ecosyste
 - Infinity bridge: Integrating the Binance bridge and expanding it with additional Infinity bridged coins to make BSC the ultimate hub of cross-chain decentralized finance globally.
 
 - Staking pools: Earn additional rewards when providing liquidity to select PoS staking liquidity pools, deposited straight to the pool so you can passively compound all your rewards in a single pool earning the benefit of staking rewards + liquidity providing fees.
+
+- Pool historical price charts: Track the change in $USD value of a pools liquidity tokens over time with advanced charting, making assessing the true performance of a pool easier than ever.
 
 
 ## Screens
