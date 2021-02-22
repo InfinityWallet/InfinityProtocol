@@ -144,6 +144,9 @@ Infinity Crypto is an innovative new all-in-one decentralized financial ecosyste
 ### Home
 ![](https://i.gyazo.com/2da361a82932057ce31de339304ddbce.png)
 
+### Advanced Trading
+![](https://i.gyazo.com/fde2b9a8aaf8b9bd794bcd4ee09a4db6.png)
+
 ### Markets
 ![](https://i.gyazo.com/32edcbc06329b469ededcfa6bda39f9e.png)
 
