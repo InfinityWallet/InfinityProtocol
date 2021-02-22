@@ -2,7 +2,7 @@
 
 The core contract is a factory which can create pair contracts as required for any token pair. Liquidity can be provided for these token pairs, allowing users to swap between them. To swap and add/remove liquidity we use a router contract to execute the desired transactions and perform safety checks. You must first approve the router address for any tokens you want to send.
 
-The Infinity Protocol will provide the infrastructure for decentralized finance, empowering developers, liquidity providers, financial institutions, exchanges, wallets and traders to participate in an open and accessible financial marketplace as a decentralized financial bridge between digital assets, providing an open, transparent, secure and censorship-resistant protocol for anyone looking to tap into a global and open liquidity, exchange and lending protocol, with many more protocols to come and advancements planned.
+The Infinity Protocol will provide the infrastructure for decentralized finance, empowering developers, liquidity providers, financial institutions, exchanges, wallets and traders to participate in an open and accessible financial marketplace. As a decentralized financial bridge between digital assets, providing an open, transparent, secure and censorship-resistant protocol for anyone looking to tap into a global and open liquidity, exchange and lending protocol, with many more protocols to come and advancements planned.
 
 
 | Title | Network | Github | Contract |
@@ -138,6 +138,7 @@ Infinity Crypto is an innovative new all-in-one decentralized financial ecosyste
 
 - Pool historical price charts: Track the change in $USD value of a pools liquidity tokens over time with advanced charting, making assessing the true performance of a pool easier than ever.
 
+- Infinity Wallet: Easily connect with a click of a button to the decentralized companion wallet, where you can securely manage your coins and tokens and interact to trade, earn or provide liquidity.
 
 ## Screens
 
