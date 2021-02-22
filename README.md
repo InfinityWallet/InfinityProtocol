@@ -226,8 +226,8 @@ There are many other features which we are not yet ready to reveal, however the 
 
 - Yeild Farming: Earn yeild by providing liquidity into specific pools to be rewarded.
 
-- Decentralised Index's: Decentralized governed indexs fully on the blockchain, allowing to easily diverisfy in seconds.
+- Decentralised Index's: Decentralized governed indexs fully on the blockchain, allowing to easily diverisfy across a wide range of cryptocurrencies in seconds.
 
-- Decentralised Index Trading: Trade crypto indexs on a fully decentralized platform with one of the leading UI & UX in the crypto industry. 
+- Decentralised Index Trading: Trade crypto indexs on a decentralized protocol & platform with one of the leading UI & UX in the crypto industry. 
 
 - Integration of the Infinity Protocol into the Infinity Wallet for direct wallet trading, staking, loans, liquidity providing and much more.
