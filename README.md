@@ -223,7 +223,7 @@ There are many other features which we are not yet ready to reveal, however the 
 
 - Gamification: Integrating new ways to earn rewards such as NFT's, achievements, trading battles, competitions and much more.
 
-- Yeild Farming: Earn yeild by providing liquidity into specific pools to be rewarded.
+- Yield Farming: Earn yield by providing liquidity into specific pools to be rewarded.
 
 - Decentralised Index's: Decentralized governed indexs fully on the blockchain, allowing to easily diverisfy across a wide range of cryptocurrencies in seconds.
 
