@@ -2,12 +2,13 @@
 
 The core contract is a factory which can create pair contracts as required for any token pair. Liquidity can be provided for these token pairs, allowing users to swap between them. To swap and add/remove liquidity we use a router contract to execute the desired transactions and perform safety checks. You must first approve the router address for any tokens you want to send.
 
+The Infinity Protocol will provide the infrastructure for decentralized finance, empowering developers, liquidity providers, financial institutions, exchanges, wallets and traders to participate in an open and accessible financial marketplace as a decentralized financial bridge between digital assets, providing an open, transparent, secure and censorship-resistant protocol for anyone looking to tap into a global and open liquidity, exchange and lending protocol, with many more protocols to come and advancements planned.
+
+
 | Title | Network | Github | Contract |
 | :---: | :---: | :---: | :---: |
 | **InfinityFactory** | BSCTEST | https://github.com/InfinityWallet/InfinityCrypto-Core | [0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6](https://testnet.bscscan.com/address/0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6) |
 | **InfinityRouter** | BSCTEST | https://github.com/InfinityWallet/Infinity-Periphery | [0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221](https://testnet.bscscan.com/address/0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221) |
-
-
 
 
 
@@ -109,6 +110,14 @@ We will then use the **swapExactTokensForTokens** function accepting these param
 | address | **to** | The address to receive the tokens. |
 | uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
 
+
+# Why Binance Smart Chain (BSC)?
+
+
+
+In very simple terms, why would we want to drive a slower car that costs more to run? We're all about gamification, so we want to maximize the feedback loop of earning, staking, and earning again: BSC's superior speed and much (much much) lower transaction fees let us do this.
+While BSC might not have the level of adoption Ethereum does at current, we believe in Binance’s ability and drive to get it mighty close in the foreseeable future.
+Faster. Cheaper. Sold.
 
 
 # Infinity Crypto
@@ -216,5 +225,9 @@ There are many other features which we are not yet ready to reveal, however the 
 - Gamification: Integrating new ways to earn rewards such as NFT's, achievements, trading battles, competitions and much more.
 
 - Yeild Farming: Earn yeild by providing liquidity into specific pools to be rewarded.
+
+- Decentralised Index's: Decentralized governed indexs fully on the blockchain, allowing to easily diverisfy in seconds.
+
+- Decentralised Index Trading: Trade crypto indexs on a fully decentralized platform with one of the leading UI & UX in the crypto industry. 
 
 - Integration of the Infinity Protocol into the Infinity Wallet for direct wallet trading, staking, loans, liquidity providing and much more.
