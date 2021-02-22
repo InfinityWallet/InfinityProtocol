@@ -7,7 +7,7 @@ The Infinity Protocol will provide the infrastructure for decentralized finance,
 
 | Title | Network | Github | Contract |
 | :---: | :---: | :---: | :---: |
-| **InfinityFactory** | BSCTEST | https://github.com/InfinityWallet/InfinityCrypto-Core | [0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6](https://testnet.bscscan.com/address/0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6) |
+| **InfinityFactory** | BSCTEST | https://github.com/InfinityWallet/Infinity-Core | [0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6](https://testnet.bscscan.com/address/0xCe8B58aa5CCcc32f5537347054fa171cE21A15e6) |
 | **InfinityRouter** | BSCTEST | https://github.com/InfinityWallet/Infinity-Periphery | [0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221](https://testnet.bscscan.com/address/0xEf06e77dd92C7E2Fc986748a5Df8aBC862ffA221) |
 
 
