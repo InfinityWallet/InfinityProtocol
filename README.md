@@ -38,7 +38,21 @@ This guide will look into the basics of directly interacting with the router con
 ### Adding liquidity
 When adding liquidity if the token pair does not exist it will be automatically created, the ratio of the tokens added will determine the initial price of the pair.
 
-You can add liquidity at the exact ratio of the pair reserves using the addLiquidity function, or add at any ratio or in a single token with the addLiquidityFlexible function. We will look at how to flexibly add liquidity.
+You can add liquidity at the exact ratio of the pair reserves using the addLiquidity function, or add at any ratio or in a single token using the addLiquidityFlexible function.
+
+The **addLiquidity** function accepts these parameters:
+
+| Type | Parameter | Description |
+| :--- | :--- | :--- |
+| address | **tokenA** | The contract address of one of the tokens you wish to provide. |
+| address | **tokenB** | The contract address of the other token. |
+| uint | **amountADesired** | The amount of tokenA desired to provide. |
+| uint | **amountBDesired** | The amount of tokenB desired to provide. |
+| uint | **amountAMin** | The minimum amount of tokenA to provide. |
+| uint | **amountBMin** | The minimum amount of tokenB to provide. |
+| address | **to** | The address to receive the liquidity tokens. |
+| uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
+
 
 The **addLiquidityFlexible** function accepts these parameters:
 
@@ -52,9 +66,7 @@ The **addLiquidityFlexible** function accepts these parameters:
 | address | **to** | The address to receive the liquidity tokens. |
 | uint | **deadline** | The Unix-time deadline which the transaction must be confirmed before. |
 
-
-The expected liquidity to be minted can be calculated with the Infinity SDK using the getLiquidityMintedFlexible function. You can then modify this value by your slippage tolerance to provide a liquidityMin. However for ease of use on the testnet you can choose a liquidityMin of 0.
-
+When adding with the addLiquidity function your tokens will be added at the exact ratio at the time of execution, the amountAMin and amountBMin can be modified by your slippage tolerance to revert on unfavorable price changes. For the addLiquidityFlexible function the expected liquidity to be minted can be calculated with the Infinity SDK using the getLiquidityMintedFlexible function. You can then modify this value by your slippage tolerance to provide a liquidityMin. However for ease of use on the testnet you can choose a liquidityMin of 0.
 
 ### Removing liquidity
 You can redeem your liquidity pool tokens at any time and choose to receive either both of the tokens from a pair or a single token. The amounts received depend on the current pool reserves and their ratio in the pool. To remove both tokens at the current ratio use the removeLiquidity function, or to remove liquidity in a single token use the removeLiquiditySingle function.
